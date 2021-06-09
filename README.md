@@ -1,8 +1,8 @@
-### Hello, I am Cheng-Wei,Tsao (Weber) 👋👋👋
-
-Facts:  
-🔭 I’m currently studying in: University of Sheffield  
-📫 How to reach me: weber0216@gmail.com  
+### Hello, I am Cheng-Wei,Tsao (Weber) 👋👋👋   
+I’m currently studying in: University of Sheffield  
+Personal email: weber0216@gmail.com  
+Univeristy email: ctsao2@sheffield.ac.uk  
+                     
 <!--
 **weber-tsao/weber-tsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
