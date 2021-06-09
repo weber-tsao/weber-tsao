@@ -1,5 +1,5 @@
 ### Hello, I am Cheng-Wei,Tsao (Weber) 👋👋👋   
-I’m currently studying in: University of Sheffield  
+Currently studying in University of Sheffield Computer Science department  
 Personal email: weber0216@gmail.com  
 Univeristy email: ctsao2@sheffield.ac.uk  
                      
