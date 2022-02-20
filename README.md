@@ -2,6 +2,7 @@
 Currently studying in University of Sheffield Computer Science department(third year)  
 Personal email: weber0216@gmail.com  
 Univeristy email: ctsao2@sheffield.ac.uk  
+Phone number: +44 7517163491
                      
 <!--
 **weber-tsao/weber-tsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
