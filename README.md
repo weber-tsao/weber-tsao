@@ -1,8 +1,9 @@
 ### Hello, I am Cheng-Wei,Tsao (Weber) 👋👋👋   
-Currently studying in University of Sheffield Computer Science department(third year)  
+Currently studying in King's College London MSc Cyber Security
 Personal email: weber0216@gmail.com  
-Univeristy email: ctsao2@sheffield.ac.uk  
-Phone number: +44 7517163491
+Univeristy email: TBD
+Phone number: +447517163491
+For more information and project I have done, please look at my github webpage, thank you.
                      
 <!--
 **weber-tsao/weber-tsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
