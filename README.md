@@ -1,7 +1,7 @@
 ### Hello, I am Cheng-Wei,Tsao (Weber) 👋👋👋   
 Currently studying in King's College London MSc Cyber Security  
 Personal email: weber0216@gmail.com  
-Univeristy email: TBD  
+Univeristy email: k21160092@kcl.ac.uk  
 Phone number: +447517163491  
 For more information and project I have done, please visit my github webpage(https://weber-tsao.github.io/), thank you.
                      
